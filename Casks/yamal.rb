@@ -1,6 +1,6 @@
 cask "yamal" do
-  version "2026.2.2"
-  sha256 "76ced87bc576451c16d46d82ed1db001dec8cb82bacf481b5e71cc570faded1a"
+  version "2026.3.0"
+  sha256 "d0a1d5067e3a169146a272753bc830a05f32cada3f7fb031f88d3751a3d80c61"
 
   url "https://yamal.app/download/Yamal_#{version}.zip"
 
